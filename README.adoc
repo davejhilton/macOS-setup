@@ -2,14 +2,20 @@
 :toclevels: 5
 :figure-caption!:
 
+ifdef::env-github[]
+:important-caption: :heavy_exclamation_mark:
+endif::[]
+
 = macOS Setup
 
 [IMPORTANT]
 ====
-**THIS REPO IS A FORK** of the amazing link:https://github.com/bkuhlmann/mac_os.git[bkuhlmann/mac_os] project,
-with a few edits to suit my own Mac Setup purposes.  
-Everything below this is from the original project's README.
+**THIS REPO IS A FORK of the amazing link:https://github.com/bkuhlmann/mac_os.git[bkuhlmann/mac_os] project, with a few edits to suit my own Mac Setup purposes.**
+
+**Everything below this is from the original project's README.**
 ====
+
+---
 
 = macOS
 
