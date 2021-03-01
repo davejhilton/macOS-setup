@@ -260,3 +260,6 @@ unmount_image() {
   hdiutil detach -force "$1"
 }
 export -f unmount_image
+
+
+source lib/custom-installers.sh
