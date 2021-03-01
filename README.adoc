@@ -17,8 +17,6 @@ endif::[]
 
 ---
 
-= macOS
-
 [link=https://circleci.com/gh/bkuhlmann/mac_os]
 image::https://circleci.com/gh/bkuhlmann/mac_os.svg?style=svg[Circle CI Status]
 
